@@ -1,0 +1,15 @@
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\bin\Debug\net6.0\SEDC.Homework2.exe
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\bin\Debug\net6.0\SEDC.Homework2.deps.json
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\bin\Debug\net6.0\SEDC.Homework2.runtimeconfig.json
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\bin\Debug\net6.0\SEDC.Homework2.dll
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\bin\Debug\net6.0\SEDC.Homework2.pdb
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\obj\Debug\net6.0\SEDC.Homework2.csproj.AssemblyReference.cache
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\obj\Debug\net6.0\SEDC.Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\obj\Debug\net6.0\SEDC.Homework2.AssemblyInfoInputs.cache
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\obj\Debug\net6.0\SEDC.Homework2.AssemblyInfo.cs
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\obj\Debug\net6.0\SEDC.Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\obj\Debug\net6.0\SEDC.Homework2.dll
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\obj\Debug\net6.0\refint\SEDC.Homework2.dll
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\obj\Debug\net6.0\SEDC.Homework2.pdb
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\obj\Debug\net6.0\SEDC.Homework2.genruntimeconfig.cache
+C:\Users\Mitko\Desktop\sedc\C#_Advanced\SEDC.Homework2\SEDC.Homework2\obj\Debug\net6.0\ref\SEDC.Homework2.dll

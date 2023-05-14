@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oM+OvUgzzEeEcosnMTHmahjul6SUnWYWY9ZMhxeQlAKGP6ocR/NfMmnxg1L/BrTRu1K0/k9Di1TlI3btSXkUhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mitko\\Desktop\\sedc\\C#_Advanced\\Homework\\SEDc.Homework3\\SEDc.Homework3\\SEDc.Homework3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mitko\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

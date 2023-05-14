@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEDC.Homework.Generic/1.0.0": {
+        "dependencies": {
+          "SEDC.Homework.Generic.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Homework.Generic.dll": {}
+        }
+      },
+      "SEDC.Homework.Generic.Domain/1.0.0": {
+        "runtime": {
+          "SEDC.Homework.Generic.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Homework.Generic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Homework.Generic.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
